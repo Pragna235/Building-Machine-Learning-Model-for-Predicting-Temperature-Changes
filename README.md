@@ -8,3 +8,6 @@
 <br> Sum of Squared Differences Cost Funtion
 <br> Sum on Absolute Differences Cost Function
 <br> https://github.com/Pragna235/Building-Machine-Learning-Model-for-Predicting-Temperature-Changes/blob/main/Supervised_Learning_by_using_differenct_cost_functions.ipynb
+
+* Implementing Gradient Descent - An Optimization Algorithm
+<br> https://github.com/Pragna235/Building-Machine-Learning-Model-for-Predicting-Temperature-Changes/blob/main/Gradient_Descent.ipynb
